@@ -1,0 +1,1 @@
+{"version":3,"sources":["sum.scss"],"names":[],"mappings":"AAAA,SACE,kBAAmB,CACnB,eAAgB,CACjB,cAGC,4BAA6B","file":"main.af36f996.chunk.css","sourcesContent":[".section {\r\n  margin-bottom: 15px;\r\n  font-weight: 500;\r\n}\r\n\r\n.borderBotoom {\r\n  border-bottom: 3px solid blue;\r\n}\r\n"]}
